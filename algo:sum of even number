@@ -1,0 +1,10 @@
+step1: start
+step2: input n and initiate
+           sum = 0
+           i = 0
+step3: if i<=0
+step4: if i%2 =0
+step5: Do sum = sum+1
+step6: Do i =i+1
+step7: print sum
+step8:end          

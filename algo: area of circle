@@ -1,0 +1,5 @@
+step1: start
+step2: take the value of radius
+step3: calculate area=3.14*radius*radius
+step4: display value of area 
+atep5: end
